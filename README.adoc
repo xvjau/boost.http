@@ -1,0 +1,8 @@
+= WARNING
+
+The `master` branch will be replaced with the `parser` branch.
+
+If you fail to `git pull`, just update your repo to track the `socket` branch.
+
+Check this issue for more info:
+<https://github.com/BoostGSoC14/boost.http/issues/50>.
